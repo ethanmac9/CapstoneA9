@@ -1,2 +1,8 @@
 # CapstoneA9
-CAD version control for Aero Capstone Project 1
+Team members: 
+
+ALL PARTS USE INCHES
+
+The main assembly is: 
+
+The Subassemblies are: 
